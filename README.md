@@ -1,3 +1,27 @@
+Other Major libraries used apart from libaries used in CRA
+
+For Front end
+    @material-ui/core
+    @material-ui/icons
+    react-beautiful-dnd
+    react-textarea-autosize
+    redux
+    redux-thunk
+    styled-components
+
+For node server deployments   
+    compression
+    cors
+    express
+  
+## To start with node server 
+
+In the project directory, you can run: Make sure node is installed already
+
+### `npm run build`
+### `node index`
+
+    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
