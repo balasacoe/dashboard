@@ -1,17 +1,25 @@
-Other Major libraries used apart from libaries used in CRA
+## Other Major libraries used apart from libaries used in CRA
 
-For Front end
+## For Front end
     @material-ui/core
+    
     @material-ui/icons
+    
     react-beautiful-dnd
+    
     react-textarea-autosize
+    
     redux
+    
     redux-thunk
+    
     styled-components
 
-For node server deployments   
+## For node server deployment
     compression
+    
     cors
+    
     express
   
 ## To start with node server 
